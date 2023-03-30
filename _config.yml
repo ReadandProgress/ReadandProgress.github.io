@@ -23,9 +23,8 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Re:log! A side personal blog for my musings on a variety of things mostly Tech, Gaming, Anime and Manga! 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  ReadandProgress
+url: "" # the base hostname & protocol for your site, e.g. http://example.com 
+github_username: ReadandProgress
 
 # Build settings
 theme: minima

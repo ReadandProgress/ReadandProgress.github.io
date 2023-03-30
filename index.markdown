@@ -3,5 +3,4 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-# <img align="left" width="100" height="100" src="https://i.ibb.co/dPwsRCD/Logo.png">
 ---
