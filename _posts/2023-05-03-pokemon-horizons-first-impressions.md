@@ -6,7 +6,7 @@ categories: Anime
 ---
 ![Alt-text](https://upload.wikimedia.org/wikipedia/commons/e/e8/Pok%C3%A9mon_Horizons_The_Series_Logo.png)
 
-The new Pokemon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first four episodes. give our take.
+The new Pokemon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
 
 
 First of all, I can't believe that The Pokemon Company decided to end the last protagonist's journey. I had long resigned myself to the fact that it would never happen, so I was happily surprised! A worthwhile change in my opinion, although I don't feel it's the only change to be made to make a suberb Pokemon anime; length and structure are also important, but I digress.
