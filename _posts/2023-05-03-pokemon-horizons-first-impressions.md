@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The blog is here, finally!"
-date:   2023-03-31 00:00:00 -0000
+title:  "Pokémon Horizons First Impressions!"
+date:   2023-05-03 00:00:00 -0000
 categories: General
 ---
 ![Alt-text](https://upload.wikimedia.org/wikipedia/commons/e/e8/Pok%C3%A9mon_Horizons_The_Series_Logo.png)
