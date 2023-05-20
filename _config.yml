@@ -20,12 +20,13 @@
 
 title: Reading's Blog
 description: >- # this means to ignore newlines until "baseurl:"
-:Hey! Welcome to my side of the internet, where I muse about my love of tech, gaming, and other passions. I hope you enjoy your stay! (^-^)
-baseurl: "/blog"
-url: "reading.is-a.dev" 
+  Hello! Welcome to my side of the internet, where I muse about my love of tech, gaming, anime, manga, gunpla, and writing to no end!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com 
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
