@@ -2,7 +2,7 @@
 layout: post
 title:  "Pokémon Horizons First Impressions!"
 date:   2023-05-03 00:00:00 -0000
-categories: Anime
+categories: Anime and Manga
 ---
 ![Alt-text](https://upload.wikimedia.org/wikipedia/commons/e/e8/Pok%C3%A9mon_Horizons_The_Series_Logo.png)
 
@@ -34,5 +34,3 @@ This one can also become episodic later on, but so far, it looks like the writer
 
 
 But to wrap up, since this is already longer than planned, I'm quite happy with the new series so far! To be fair, a lot could still go wrong, but I'm enjoying the ride so far! If you like pokemon, I recommend giving it a shot. It's not my ideal dream anime pokemon series by a longshot, but it's enjoyable enough to watch, and that may be enough for you!
-
- 
