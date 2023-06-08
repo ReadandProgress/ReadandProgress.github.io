@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Goodbye my Homelab ;_;" 
-date:   06-10-2023 00:00:00 -0000
+date:   2023-10-06 00:00:00 -0000
 categories: Tech
 ---
 I was going to post about my neat small homelab, but unfortunately it didn't work out. I was hosting a SMB file share and Jellyfin server on a ten-year-old Samsung laptop. I had it lying around, and I thought it would be a good way to give new life to old hardware. 
