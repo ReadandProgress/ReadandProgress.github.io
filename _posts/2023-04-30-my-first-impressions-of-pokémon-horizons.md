@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first impressions of Pokémon Horizons!"
-date:   2023-04-31 00:00:00 -0000
+date:   2023-04-30 00:00:00 -0000
 categories: Anime
 ---
 ![Alt-text](https://upload.wikimedia.org/wikipedia/commons/e/e8/Pok%C3%A9mon_Horizons_The_Series_Logo.png)
