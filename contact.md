@@ -1,3 +1,1 @@
----
-contact: 
----
+ This is a page. 
