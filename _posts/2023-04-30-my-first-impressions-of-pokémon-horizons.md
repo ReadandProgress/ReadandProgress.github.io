@@ -4,16 +4,12 @@ title:  "My first impressions of Pokémon Horizons!"
 date:   2023-04-30 00:00:00 -0000
 categories: Anime
 ---
-![Alt-text](https://upload.wikimedia.org/wikipedia/commons/e/e8/Pok%C3%A9mon_Horizons_The_Series_Logo.png)
-
 The new pokemon anime series has dropped in Japan! and I have some mostly positive thoughts about it. Bear in mind that this post contains spoilers for the first three episodes. give our take.
-impressions 
 
 First of all, I can't believe that The Pokemon Company decided to end the last protagonist's journey. I had long resigned myself to the fact that it would never happen, so I was happily surprised! A worthwhile change in my opinion, although I don't feel it's the only change to be made to make a suberb pokemon anime; length and structure are also important, but I digress.
 
 
 From what I've watched so far, the show has shattered my low expectations! I'll start with the new cast, starting with Liko, our new protagonist. She is an introverted girl, which seems to cause her social anxiety. (I can relate.) and is enrolled in a new school in Kanto (yes, again), and she is originally from Paldea.
-
 
 As for Roy, he seems to be in search of treasure and legendary pokemon; if the opening is anything to go by, he had a chance encounter with a shiny Rayquaza and may be looking for it. I don't have much opinion about him as of now because I've seen characters like him before, and he has a lot of similarities with the last deuterogonist.
 
