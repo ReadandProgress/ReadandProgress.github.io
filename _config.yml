@@ -21,8 +21,8 @@
 title: Reading's Blog
 description: >- # this means to ignore newlines until "baseurl:"
   
-baseurl: "https://reading.is-a.dev/blog" # the subpath of your site, e.g. /blog
-url: "https://reading.is-a.dev/blog"
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://reading.is-a.dev/"
 
 # Build settings
 theme: minima
