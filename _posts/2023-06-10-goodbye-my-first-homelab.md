@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Goodbye my first Homelab ;_;" 
+title:  "Goodbye my first Homelab ; _ ;" 
 date:   2023-06-10 00:00:00 -0000
 categories: Tech
 ---
