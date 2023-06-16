@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<img align="left" width="300" height="300" src="https://i.ibb.co/Hgw9NqH/favicon.png">  
+<br> <br/>
+<img align="left" width="300" height="300" src="https://i.ibb.co/Hgw9NqH/favicon.png"> 
+<br> <br/> 
 
 Hi there! I go by Reading, and I'm a tech enthusiast, writer, and web developer. I enjoy watching anime, reading manga, playing video games, and building gunpla in my spare time.
 
